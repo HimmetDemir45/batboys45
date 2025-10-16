@@ -1,4 +1,4 @@
--  Hi, I’m @batboys45
+-  Hi, I’m Himmet Demir
 -  I’m currently learning python
 -  I am currently interested in the fields of deep learning and artificial intelligence, and I have started working on these topics.
 -  My email : himmo4346@gmail.com
